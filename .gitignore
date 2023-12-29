@@ -1,0 +1,30 @@
+# NeoVim Temporary Files
+*.swp
+*.swo
+*.swn
+
+# Undo History
+undo/*
+
+# Swap Files
+swap/*
+
+# Logs
+*.log
+
+# Plugin directories
+plugged/
+bundle/
+dein/
+
+# Session Files
+Session.vim
+sessions/*
+
+# Local Configuration
+local.vim
+local/*
+
+# Temporary Files
+*.tmp
+*.bak
