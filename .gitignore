@@ -1,0 +1,10 @@
+# Lazy.nvim plugin data
+lazy-lock.json
+
+# OS
+.DS_Store
+
+# Swap/undo
+*.swp
+*.swo
+undodir/
